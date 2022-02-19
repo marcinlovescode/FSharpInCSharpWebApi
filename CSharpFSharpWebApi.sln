@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpWebApi", "CSharpWebApi\CSharpWebApi.csproj", "{211D2EDD-6DC2-4CEE-A0FA-82328E2B2123}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpHandlers", "FSharpHandlers\FSharpHandlers.fsproj", "{360BD207-E1F3-4201-B859-8AA3DFFED8D6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWebApi", "FSharpWebApi\FSharpWebApi.fsproj", "{18251652-335E-45CD-93FD-30DDF2D2188E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211D2EDD-6DC2-4CEE-A0FA-82328E2B2123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211D2EDD-6DC2-4CEE-A0FA-82328E2B2123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211D2EDD-6DC2-4CEE-A0FA-82328E2B2123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211D2EDD-6DC2-4CEE-A0FA-82328E2B2123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360BD207-E1F3-4201-B859-8AA3DFFED8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360BD207-E1F3-4201-B859-8AA3DFFED8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360BD207-E1F3-4201-B859-8AA3DFFED8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360BD207-E1F3-4201-B859-8AA3DFFED8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18251652-335E-45CD-93FD-30DDF2D2188E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18251652-335E-45CD-93FD-30DDF2D2188E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18251652-335E-45CD-93FD-30DDF2D2188E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18251652-335E-45CD-93FD-30DDF2D2188E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
