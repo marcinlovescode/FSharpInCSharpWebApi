@@ -1,4 +1,4 @@
-# Giraffe Example F# dotnet core project
+# Using F# in C# WebApi
 
 This sample web application demonstrates how use HOF via C# WebApi:
  * By wrapping F# function in C# class
@@ -8,4 +8,4 @@ This sample web application demonstrates how use HOF via C# WebApi:
 # Resources
 
 https://github.com/giraffe-fsharp/Giraffe
-
+https://marcinlovescode.com/integracja/fsharp-w-webapi-csharpowym/
